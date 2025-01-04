@@ -1,2 +1,2 @@
-# Python version: 3.8
+# Python version: 3.12
 matplotlib~=3.10.0
